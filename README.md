@@ -1,11 +1,22 @@
+About r-qqconf-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qqconf-feedstock/blob/main/LICENSE.txt)
+
 About r-qqconf
-==============
+--------------
 
 Home: https://github.com/eweine/qqconf
 
 Package license: GPL-3.0-only
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qqconf-feedstock/blob/main/LICENSE.txt)
+Summary: Provides functionality for creating Quantile-Quantile (QQ) and Probability-Probability (PP) plots with simultaneous testing bands to asses significance of sample deviation from a reference distribution.
+About r-qqconf
+--------------
+
+Home: https://github.com/eweine/qqconf
+
+Package license: GPL-3.0-only
 
 Summary: Provides functionality for creating Quantile-Quantile (QQ) and Probability-Probability (PP) plots with simultaneous testing bands to asses significance of sample deviation from a reference distribution.
 
